@@ -1,0 +1,4 @@
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+mat-icon.hover:hover{
+    cursor: pointer;
+  }
